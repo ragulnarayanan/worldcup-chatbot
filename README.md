@@ -126,6 +126,11 @@ Tool 5: wc2026_tool
 
 ```
 worldcup-chatbot/
+├── data/
+│   ├── results.csv
+│   ├── shootouts.csv
+│   ├── shootouts.csv 
+│   └── goalscorers.csv
 ├── worldcup_chatbot.ipynb   ← main Colab notebook
 ├── app.py                   ← Streamlit web UI
 ├── requirements.txt         ← package dependencies
