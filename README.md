@@ -151,8 +151,8 @@ streamlit run app.py
 MS Data Analytics Engineering — Northeastern University
 Boston, MA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com](https://www.linkedin.com/in/ragul-narayanan-magesh-18013916b/))
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)]([https://github.com](https://github.com/ragulnarayanan))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ragul-narayanan-magesh-18013916b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ragulnarayanan)
 
 
 ---
